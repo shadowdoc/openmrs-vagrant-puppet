@@ -21,7 +21,7 @@ Setup - One time
 2. Clone the repository into a local directory using the following command 
 
 ```
-https://github.com/shadowdoc/openmrs-puppet-vagrant.git
+git clone https://github.com/shadowdoc/openmrs-puppet-vagrant.git
 ```
 
 3. Change into the openmrs directory and run the following vagrant command to set up your instance
@@ -41,7 +41,7 @@ http://localhost:8080/openmrs/
 
 You will be directed to the login page. To access the account use these credentials <b>  username: admin <b/> and <b> password: Admin123 </b>
 
-![alt tag](https://github.iu.edu/radyops/openmrs/raw/master/images/login.png)
+![alt tag](https://github.com/shadowdoc/openmrs-vagrant-puppet/raw/master/images/login.png)
 
 
 Form Creation
